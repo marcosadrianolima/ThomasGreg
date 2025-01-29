@@ -1,4 +1,11 @@
 # ThomasGreg
+
+# Repositório Guia
+### [Projeto compactado](https://github.com/marcosadrianolima/ThomasGreg/blob/main/ThomasGregDesafio.zip)
+### [Guia de Desenvolvemtno da Aplicação](https://github.com/marcosadrianolima/ThomasGreg/blob/main/Guia%20de%20Desenvolvimento%20da%20Aplica%C3%A7%C3%A3o%20Thomas%20Greg.pdf)
+### [Arquitetura da Solução](https://github.com/marcosadrianolima/ThomasGreg/blob/main/Arquitetura%20da%20Solu%C3%A7%C3%A3o%20Thomas%20Greg.pdf)
+### [Collection do Postman para utilizar com a API](https://github.com/marcosadrianolima/ThomasGreg/blob/main/ThomasGreg.postman_collection.json)
+
 # Desafio: Cadastro de Clientes
 
 ## Cenário
@@ -42,10 +49,4 @@ Prepare um guia para os desenvolvedores que implementarão sua solução. Isso d
 - Seu desafio deve ser enviado como um **repositório GIT público** (GitHub), junto com um arquivo de texto mencionando os padrões e a arquitetura utilizada.
 - Não envie nenhum arquivo além do próprio **código compactado**, sua **documentação** e arquivos com **declaração de dependências**, **automação para instalação**. Tome cuidado para não enviar imagens, vídeos, áudio, binários, etc.
 - Siga **boas práticas de desenvolvimento**, **qualidade** e **governança de código**. Aqui, todos os desenvolvedores podem participar do processo de avaliação técnica, então oriente os avaliadores sobre como **instalar**, **testar** e **executar** seu código. Iremos avaliar seu desafio de acordo com a posição e o nível para o qual você está se candidatando.
-
-# Repositório
-## Projeto compactado
-## Guia de Desenvolvemtno da Aplicação
-## Arquitetura da Solução
-## Collection do Postman para utilizar com a API
 
